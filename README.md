@@ -25,10 +25,10 @@ It would be impossible to go through every single application offered by Adobe C
 
 
 ## Resources/Sites Used
-Adobe Creative Suite | Adobe Wiki | Fandom 
+[Adobe Creative Suite | Adobe Wiki | Fandom ](http://www.google.fr/https://adobe.fandom.com/wiki/Adobe_Creative_Suite)
 
-What is Adobe Creative Cloud — Every App Explained & Pricing (studiobinder.com) 
+[What is Adobe Creative Cloud — Every App Explained & Pricing](https://www.studiobinder.com/blog/what-is-adobe-creative-cloud/)
 
-Adobe Creative Cloud | Digital Learning & Innovation (bu.edu) 
+[Adobe Creative Cloud | Digital Learning & Innovation](https://www.bu.edu/dli/resources/technology-tools/adobe-creative-cloud/)
 
-Adobe Creative Cloud | Details and products | Adobe 
+[Adobe Creative Cloud | Details and products | Adobe](https://www.adobe.com/creativecloud.html)
